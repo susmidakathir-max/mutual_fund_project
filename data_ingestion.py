@@ -1,3 +1,9 @@
+"""
+Day 1 ETL Process
+
+Downloads and loads mutual fund datasets
+into the project directory.
+"""
 import pandas as pd
 import os
 

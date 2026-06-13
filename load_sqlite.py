@@ -1,3 +1,9 @@
+"""
+SQLite Loading Module
+
+Loads cleaned datasets into the
+Bluestock SQLite database.
+"""
 from sqlalchemy import create_engine
 import pandas as pd
 
